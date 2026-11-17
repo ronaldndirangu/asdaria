@@ -1,0 +1,747 @@
+{
+  "services": [
+    {
+      "id": "feasibility",
+      "title": "Feasibility studies",
+      "description": "Feasibility studies and business development support for agricultural on- and off-farm infrastructure and investments.",
+      "items": [
+        "Value addition, post-harvest management and agro-processing: horticultural and industrial crops such as coffee, herbs and spices such as moringa, oils and nuts, fibre such as cotton, and cereals and legumes",
+        "Communal kitchens, food hubs and bakeries",
+        "Animal production, including housing for poultry, cattle and pigs",
+        "Renewable energy and environment, including climate change mitigation and adaptation",
+        "Water, irrigation, hygiene and sanitation",
+        "Manufacture of agricultural inputs and related agricultural products"
+      ],
+      "examples": [
+        "afpq",
+        "emuka-moringa-farmers-co-operative-society"
+      ]
+    },
+    {
+      "id": "engineering",
+      "title": "Engineering design & installation",
+      "description": "Design and installation of systems for agricultural production, agro-processing, energy and the environment.",
+      "items": [
+        "Animal and crop production: animal structures, on-farm structures and marketing infrastructure such as collection centres",
+        "Agro-processing and value addition: drying facilities and food and agro-processing plants",
+        "Energy and environment: solar installations and waste management systems",
+        "Tender documents, bills of quantities and construction supervision"
+      ],
+      "examples": [
+        "coffee",
+        "kalobeyei"
+      ]
+    },
+    {
+      "id": "postharvest",
+      "title": "Value chain & post-harvest studies",
+      "description": "Value chain and commodity assessment studies, post-harvest and agro-processing studies, and support for interventions.",
+      "items": [
+        "Value chain and commodity assessment studies",
+        "Post-harvest and agro-processing studies",
+        "Support for post-harvest, agro-processing and value addition interventions"
+      ],
+      "examples": [
+        "post-harvest-loss-baseline-grains-eight-countries-in-sub-saharan-africa",
+        "post-harvest-and-agro-processing-backstopping-over-200-enterprises"
+      ]
+    },
+    {
+      "id": "research",
+      "title": "Baselines, monitoring & evaluation",
+      "description": "Community project baseline surveys, appraisal, monitoring and evaluation, and impact assessment.",
+      "items": [
+        "Community project baseline surveys",
+        "Project appraisal",
+        "Monitoring, mid-term reviews and end-term evaluations",
+        "Impact assessment"
+      ],
+      "examples": [
+        "end-term-evaluation-climate-adaptation-project-17-counties",
+        "meta-evaluation-changieni-rasili-mali-crm-facility"
+      ]
+    },
+    {
+      "id": "technology",
+      "title": "Technology support",
+      "description": "Recommendation, sourcing, optimisation, development, testing and promotion of technologies.",
+      "items": [
+        "Irrigation, such as water pumps",
+        "Mechanisation, such as tractors",
+        "Agro-processing and value addition equipment: drying, cold chain, handling, milling and extraction",
+        "Renewable energy technologies such as coolers, cold rooms and solar energy systems"
+      ],
+      "examples": [
+        "coffee",
+        "solar-tunnel-dryer-modification-and-modelling"
+      ]
+    },
+    {
+      "id": "capacity",
+      "title": "Capacity strengthening",
+      "description": "Advisory services, capacity building and organisational development.",
+      "items": [
+        "Advisory services",
+        "Capacity and training needs assessment",
+        "Training, manuals and standard operating procedures",
+        "Organisational development"
+      ],
+      "examples": [
+        "dreem-hub-and-spoke-nine-horticulture-cooperatives",
+        "wflo-post-harvest-and-cold-chain-workshops-kenya"
+      ]
+    },
+    {
+      "id": "bds",
+      "title": "Business development services",
+      "description": "Business analysis, modelling, review, strengthening and optimisation, including systems, operations and financial review and modelling.",
+      "items": [
+        "Entrepreneurship orientation",
+        "Marketing development and linkages",
+        "Financial analysis, business appraisal and business planning",
+        "Business model review, selection and recommendation",
+        "Tender documents, bills of quantities and construction supervision"
+      ],
+      "examples": [
+        "afpq",
+        "shalem-and-prosoya-ltd-financial-modelling-and-business-planning"
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "Policy review & development",
+      "description": "Policy review and development, including constraints and opportunities identification, sector studies and policy briefs.",
+      "items": [
+        "Constraints and opportunities identification",
+        "Sector studies",
+        "Policy brief development"
+      ],
+      "examples": [
+        "usaid-western-kenya-sanitation-project-supply-chain-assessment-and-policy-briefs",
+        "privatisation-of-state-owned-sugar-factories-socio-economic-modelling"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "coffee",
+      "track": "company",
+      "category": "Engineering design, project and construction management",
+      "title": "Eco-friendly coffee processing and water re-circulation, Embu and Kiambu",
+      "description": "Design and overseeing installation of eco-friendly coffee processing machinery, and rehabilitation and improvement of water re-circulation systems, in four coffee factories in Embu and Kiambu. The scope covered tender evaluation, equipment selection, equipment layout and water re-circulation drawings, bills of quantities and tender documents, and construction supervision.",
+      "summary": "Eco-friendly coffee processing machinery and improved water re-circulation for four coffee factories in Embu and Kiambu.",
+      "highlights": [
+        "Four coffee factories",
+        "Equipment selection",
+        "Construction supervision"
+      ],
+      "services": [
+        "engineering",
+        "technology"
+      ]
+    },
+    {
+      "id": "kalobeyei",
+      "track": "partner",
+      "category": "Engineering design, project and construction management",
+      "title": "Kalobeyei food-processing hub, Turkana",
+      "description": "Design and construction supervision of a food-processing hub for the Kalobeyei community in Turkana, with a community kitchen, drying facility and bakery. A further assignment covered design, bills of quantities, tender documents and construction supervision for two poultry houses (each 15.4 m by 6.4 m) and supporting facilities: waiting rooms, a packaging house and change rooms.",
+      "summary": "Design and construction supervision of a food-processing hub for the Kalobeyei community in Turkana.",
+      "highlights": [
+        "Community kitchen",
+        "Drying facility",
+        "Bakery",
+        "Two poultry houses"
+      ],
+      "services": [
+        "engineering",
+        "postharvest"
+      ]
+    },
+    {
+      "id": "devolved-climate-change-governance-44-nrm-projects",
+      "track": "partner",
+      "category": "Engineering design, project and construction management",
+      "title": "Devolved climate change governance: 44 NRM projects",
+      "description": "Design and feasibility of 44 natural resource management projects under the 'Devolved Climate Change Governance to Strengthen Resilience of Communities' programme across four target counties.",
+      "services": [
+        "engineering",
+        "feasibility"
+      ]
+    },
+    {
+      "id": "murang-a-county-hatchery-and-food-processing-facility",
+      "track": "partner",
+      "category": "Engineering design, project and construction management",
+      "title": "Murang'a County hatchery and food-processing facility",
+      "description": "Design and construction supervision of a hatchery and a food-processing facility for drying and milling, for Murang'a County.",
+      "services": [
+        "engineering",
+        "postharvest"
+      ]
+    },
+    {
+      "id": "5-200-hectare-beef-cattle-production-and-processing-farm",
+      "track": "partner",
+      "category": "Engineering design, project and construction management",
+      "title": "5,200-hectare beef cattle production and processing farm",
+      "description": "Design, layout drawings, bills of quantities and capital expenditure estimation for a 5,200-hectare beef cattle production and processing farm (5,400 cattle).",
+      "services": [
+        "engineering",
+        "feasibility"
+      ]
+    },
+    {
+      "id": "irrigation-development-projects-feasibility-design-and-tender-documents",
+      "track": "partner",
+      "category": "Engineering design, project and construction management",
+      "title": "Irrigation development projects: feasibility, design and tender documents",
+      "description": "Technical quality assurance engineer and economist for feasibility studies, detailed design and preparation of tender documents for irrigation development projects including Rubiru and Wamba.",
+      "services": [
+        "engineering",
+        "feasibility"
+      ]
+    },
+    {
+      "id": "kagunduini-coffee-factory-othaya-cooperative-society",
+      "track": "partner",
+      "category": "Engineering design, project and construction management",
+      "title": "Kagunduini Coffee Factory, Othaya Cooperative Society",
+      "description": "Detailed design and preparation of tender documents for construction of the Kagunduini Coffee Factory of the Othaya Cooperative Society.",
+      "services": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "granulated-lime-production-kenya",
+      "track": "partner",
+      "category": "Engineering design, project and construction management",
+      "title": "Granulated lime production, Kenya",
+      "description": "Market and economic feasibility study for granulated lime in Kenya, including the equipment and infrastructure required.",
+      "services": [
+        "feasibility"
+      ]
+    },
+    {
+      "id": "post-harvest-loss-baseline-grains-eight-countries-in-sub-saharan-africa",
+      "track": "partner",
+      "category": "Baseline studies, sector analysis and project feasibility",
+      "title": "Post-harvest loss baseline: grains in eight countries of sub-Saharan Africa",
+      "description": "Baseline analysis of harvesting and post-harvest losses at the nodes of selected grain value chains in eight countries. Measured losses; assessed practices, affordability, adoption and availability of food loss reduction solutions including financial linkages and market access; covered gender and youth inclusion, policy analysis, knowledge gaps, and climate risk and vulnerability mapping.",
+      "services": [
+        "research",
+        "postharvest"
+      ]
+    },
+    {
+      "id": "saline-agriculture-and-blue-green-carbon-turkana",
+      "track": "partner",
+      "category": "Baseline studies, sector analysis and project feasibility",
+      "title": "Saline agriculture and blue-green carbon, Turkana",
+      "description": "Pre-feasibility study for a project on transforming salt-affected lands through saline agriculture and blue-green carbon.",
+      "services": [
+        "feasibility"
+      ]
+    },
+    {
+      "id": "export-vegetables-value-chain-embu-nyeri-kirinyaga-and-meru",
+      "track": "partner",
+      "category": "Baseline studies, sector analysis and project feasibility",
+      "title": "Export vegetables value chain: Embu, Nyeri, Kirinyaga and Meru",
+      "description": "Market assessment and value chain analysis for export vegetables in Embu, Nyeri, Kirinyaga and Meru counties.",
+      "services": [
+        "postharvest",
+        "bds"
+      ]
+    },
+    {
+      "id": "post-harvest-and-agro-processing-backstopping-over-200-enterprises",
+      "track": "partner",
+      "category": "Baseline studies, sector analysis and project feasibility",
+      "title": "Post-harvest and agro-processing backstopping for over 200 enterprises",
+      "description": "Constraints and opportunities identification, and backstopping, on the post-harvest, agro-processing and value addition activities of more than 200 enterprises: roots and tubers, vegetables, fruits, livestock and fisheries.",
+      "services": [
+        "postharvest",
+        "technology",
+        "bds"
+      ]
+    },
+    {
+      "id": "kenya-rice-and-cotton-value-chain-study",
+      "track": "partner",
+      "category": "Baseline studies, sector analysis and project feasibility",
+      "title": "Kenya rice and cotton value chain study",
+      "description": "Value chain study of Kenya's rice and cotton sub-sectors.",
+      "services": [
+        "postharvest",
+        "bds"
+      ]
+    },
+    {
+      "id": "sustainable-natural-resource-management-baseline-tana-river",
+      "track": "partner",
+      "category": "Baseline studies, sector analysis and project feasibility",
+      "title": "Sustainable natural resource management baseline, Tana River",
+      "description": "Baseline survey for the Enhancing Sustainable Natural Resource Management project, targeting agro-pastoralists, pastoralists and smallholder farmers in Tana River.",
+      "services": [
+        "research"
+      ]
+    },
+    {
+      "id": "agricultural-and-market-linkages-amal-baseline-four-counties",
+      "track": "partner",
+      "category": "Baseline studies, sector analysis and project feasibility",
+      "title": "Agricultural and Market Linkages (AMAL) baseline, four counties",
+      "description": "Baseline survey for the AMAL project in Tana River, Kitui, Kilifi and Makueni counties.",
+      "services": [
+        "research",
+        "bds"
+      ]
+    },
+    {
+      "id": "state-of-climate-change-and-environment-in-the-asals-of-northern-kenya",
+      "track": "partner",
+      "category": "Baseline studies, sector analysis and project feasibility",
+      "title": "State of climate change and environment in the ASALs of Northern Kenya",
+      "description": "Consultancy to ascertain the state of climate change and environment in the arid and semi-arid lands of Northern Kenya.",
+      "services": [
+        "research"
+      ]
+    },
+    {
+      "id": "avocado-introduction-to-smallholder-farmers-narok-and-bomet",
+      "track": "partner",
+      "category": "Baseline studies, sector analysis and project feasibility",
+      "title": "Avocado introduction for small-scale farmers, Narok and Bomet",
+      "description": "Baseline survey for the introduction of avocado to small-scale farmers in Narok and Bomet districts.",
+      "services": [
+        "research"
+      ]
+    },
+    {
+      "id": "farmer-business-groups-for-horticulture-central-kenya",
+      "track": "partner",
+      "category": "Baseline studies, sector analysis and project feasibility",
+      "title": "Farmer business groups for horticulture, Central Kenya",
+      "description": "Baseline survey for establishing farmer business groups for horticulture in Central Kenya.",
+      "services": [
+        "research",
+        "capacity"
+      ]
+    },
+    {
+      "id": "environmental-and-social-impact-assessment-gdc-warehouse-nakuru",
+      "track": "partner",
+      "category": "Baseline studies, sector analysis and project feasibility",
+      "title": "Environmental and Social Impact Assessment: GDC warehouse, Nakuru",
+      "description": "Environmental and Social Impact Assessment study for the Geothermal Development Company warehouse in Nakuru.",
+      "services": [
+        "research"
+      ]
+    },
+    {
+      "id": "inventory-analysis-of-22-cotton-ginneries-in-kenya",
+      "track": "partner",
+      "category": "Baseline studies, sector analysis and project feasibility",
+      "title": "Inventory analysis of 22 cotton ginneries in Kenya",
+      "description": "Engineer for the inventory analysis of Kenya's 22 cotton ginneries.",
+      "services": [
+        "technology",
+        "engineering"
+      ]
+    },
+    {
+      "id": "end-term-evaluation-climate-adaptation-project-17-counties",
+      "track": "partner",
+      "category": "Monitoring and evaluation",
+      "title": "End-term evaluation: Climate Adaptation project, 17 counties",
+      "description": "End-term evaluation of a climate adaptation project covering 17 counties in Kenya and five thematic areas: food security, water management, disaster risk reduction, shoreline rehabilitation and knowledge management.",
+      "services": [
+        "research"
+      ]
+    },
+    {
+      "id": "mid-term-evaluation-amal-project",
+      "track": "partner",
+      "category": "Monitoring and evaluation",
+      "title": "Mid-term evaluation: AMAL project",
+      "description": "Mid-term evaluation of the Agricultural and Market Linkages (AMAL) project.",
+      "services": [
+        "research"
+      ]
+    },
+    {
+      "id": "end-of-term-evaluation-cassava-mechanization-and-processing-three-countries",
+      "track": "partner",
+      "category": "Monitoring and evaluation",
+      "title": "End-of-term evaluation: Cassava Mechanization and Processing project",
+      "description": "End-of-term evaluation of the Cassava Mechanization and Processing project in Zambia, Uganda and Nigeria.",
+      "services": [
+        "research",
+        "postharvest"
+      ]
+    },
+    {
+      "id": "end-of-project-evaluation-solidaridad-farmer-support-programme",
+      "track": "partner",
+      "category": "Monitoring and evaluation",
+      "title": "End-of-project evaluation: Solidaridad Farmer Support Program",
+      "description": "End-of-project evaluation of Solidaridad's Farmer Support Program on BCI cotton in Kenya.",
+      "services": [
+        "research"
+      ]
+    },
+    {
+      "id": "end-of-project-evaluation-dutch-supported-horticultural-and-food-security-project",
+      "track": "partner",
+      "category": "Monitoring and evaluation",
+      "title": "End-of-project evaluation: Dutch-supported Horticultural and Food Security Project",
+      "description": "End-of-project evaluation of the Dutch Government supported Horticultural and Food Security Project.",
+      "services": [
+        "research"
+      ]
+    },
+    {
+      "id": "end-term-evaluation-climate-academy-project",
+      "track": "partner",
+      "category": "Monitoring and evaluation",
+      "title": "End-term evaluation: Climate Academy project",
+      "description": "End-term evaluation of the Climate Academy project, which promoted biogas, cookstove, solar, and sustainable land and agricultural management technologies.",
+      "services": [
+        "research"
+      ]
+    },
+    {
+      "id": "documentation-of-lessons-mango-value-chain-makueni-and-kitui",
+      "track": "partner",
+      "category": "Monitoring and evaluation",
+      "title": "Documentation of lessons: mango value chain, Makueni and Kitui",
+      "description": "Documentation and sharing of achievements and lessons learnt from the mango value chain intervention.",
+      "services": [
+        "research",
+        "postharvest"
+      ]
+    },
+    {
+      "id": "documentation-of-lessons-export-vegetables-makueni-and-kitui",
+      "track": "partner",
+      "category": "Monitoring and evaluation",
+      "title": "Documentation of lessons: export vegetables, Makueni and Kitui",
+      "description": "Documentation and sharing of achievements and lessons learnt from the export vegetables value chain intervention.",
+      "services": [
+        "research"
+      ]
+    },
+    {
+      "id": "end-of-project-evaluation-act-change-transform-crm-and-land-facility",
+      "track": "partner",
+      "category": "Monitoring and evaluation",
+      "title": "End-of-project evaluation: Act! Change Transform CRM and Land Facility",
+      "description": "Review of the one-year CRM cost extension and Land Facility, evaluating 20 cost extension partners and 8 Land Facility partners.",
+      "services": [
+        "research"
+      ]
+    },
+    {
+      "id": "meta-evaluation-changieni-rasili-mali-crm-facility",
+      "track": "partner",
+      "category": "Monitoring and evaluation",
+      "title": "Meta-evaluation: Changieni Rasili Mali (CRM) Facility",
+      "description": "Meta-evaluation of the CRM Facility on natural resource management: 81 evaluations reviewed to filter outcomes, critique the evaluation process, and draw lessons, best practice and recommendations.",
+      "services": [
+        "research"
+      ]
+    },
+    {
+      "id": "mid-term-review-eu-community-development-programme-cdp-4",
+      "track": "partner",
+      "category": "Monitoring and evaluation",
+      "title": "Mid-term review: EU Community Development Programme (CDP-4)",
+      "description": "Mid-term review of the EU-funded CDP-4 covering 274 projects across education, health, water and sanitation, agriculture, rural access infrastructure and livestock.",
+      "services": [
+        "research"
+      ]
+    },
+    {
+      "id": "agribusiness-analyst-and-trainer-support-to-smaes",
+      "track": "partner",
+      "category": "Monitoring and evaluation",
+      "title": "Agribusiness analyst and trainer: support to SMAEs",
+      "description": "Mid-term evaluation of the project support to SMAEs, and training of SMAE and agribusiness staff in business appraisal and business planning.",
+      "services": [
+        "capacity",
+        "bds",
+        "research"
+      ]
+    },
+    {
+      "id": "impact-assessment-fair-and-responsible-trade-in-coffee",
+      "track": "partner",
+      "category": "Monitoring and evaluation",
+      "title": "Impact assessment: Fair and Responsible Trade in Coffee",
+      "description": "Impact assessment of fair and responsible trade in coffee in Central Kenya (Kiambu and Nyeri).",
+      "services": [
+        "research"
+      ]
+    },
+    {
+      "id": "dreem-hub-and-spoke-nine-horticulture-cooperatives",
+      "track": "partner",
+      "category": "Capacity needs assessment and capacity building",
+      "title": "DREEM hub-and-spoke project: nine horticulture cooperatives",
+      "description": "Capacity building and promotion of improved production practices and solarisation among nine horticulture cooperatives and groups, through the Distributed Renewable Energy Ecosystem Model hub-and-spoke project. Covered good agricultural practices, climate-smart agriculture, safety and standards, value addition, quality standards, solarisation equipment and management, risk and business planning, and resourcing; supported training needs assessment, M&E, networking and inclusion, a detailed strategy, standard operating procedures, risk mitigation guidelines and training manuals.",
+      "services": [
+        "capacity",
+        "technology"
+      ]
+    },
+    {
+      "id": "wflo-post-harvest-and-cold-chain-workshops-kenya",
+      "track": "partner",
+      "category": "Capacity needs assessment and capacity building",
+      "title": "WFLO post-harvest and cold chain training, Kenya",
+      "description": "Country leadership for WFLO post-harvest and cold chain training workshops in Kenya: four workshops for 80 farmers.",
+      "services": [
+        "capacity",
+        "postharvest"
+      ]
+    },
+    {
+      "id": "capacity-needs-assessment-sivap-irrigation-project",
+      "track": "partner",
+      "category": "Capacity needs assessment and capacity building",
+      "title": "Capacity needs assessment: SIVAP irrigation project",
+      "description": "Capacity needs assessment for the Small Holder Irrigation and Value Addition Project (SIVAP), covering 11 irrigation projects.",
+      "services": [
+        "capacity"
+      ]
+    },
+    {
+      "id": "business-appraisal-and-capacity-building-40-agribusinesses",
+      "track": "partner",
+      "category": "Capacity needs assessment and capacity building",
+      "title": "Business appraisal and capacity building for over 40 agribusinesses",
+      "description": "Capacity needs assessment, business appraisal and capacity building for more than 40 agribusinesses across diverse crops and livestock enterprises.",
+      "services": [
+        "capacity",
+        "bds"
+      ]
+    },
+    {
+      "id": "economic-evaluation-of-energy-projects-ministry-of-energy",
+      "track": "partner",
+      "category": "Capacity needs assessment and capacity building",
+      "title": "Economic evaluation of energy projects: Ministry of Energy training",
+      "description": "Training for Ministry of Energy officials on the economic evaluation of energy projects.",
+      "services": [
+        "capacity"
+      ]
+    },
+    {
+      "id": "afpq",
+      "track": "partner",
+      "category": "Business feasibility studies and business development services",
+      "title": "Alliance for Product Quality in Africa (AFPQ): cooperation with larger companies",
+      "description": "Study assessing the potential for the Alliance for Product Quality in Africa (AFPQ) to cooperate with larger companies on the African continent, identifying anchor companies and SMEs in various sectors with the potential to work together to improve supplier-to-buyer product quality.",
+      "summary": "Assessed the potential for AFPQ to cooperate with larger companies across Africa, identifying anchor companies and SMEs that could work together to improve product quality from supplier to buyer.",
+      "highlights": [
+        "Anchor companies",
+        "SMEs",
+        "Product quality"
+      ],
+      "services": [
+        "feasibility",
+        "bds"
+      ]
+    },
+    {
+      "id": "kananahu-business-process-optimisation-and-technical-capacity",
+      "track": "partner",
+      "category": "Business feasibility studies and business development services",
+      "title": "Kananahu: business process optimisation and technical capacity",
+      "description": "Optimisation of business processes and building of technical capacity for Kananahu, including a review of its operations, and development of and training on strategies to improve the SME's efficiency and operations.",
+      "services": [
+        "bds",
+        "capacity"
+      ]
+    },
+    {
+      "id": "jungle-macs-epz-ltd-under-administration-technical-support",
+      "track": "partner",
+      "category": "Business feasibility studies and business development services",
+      "title": "Jungle Macs (EPZ) Ltd: review of operations",
+      "description": "Technical support in the review of the operations of Jungle Macs (EPZ) Ltd, then under administration, covering agricultural and agro-processing processes and market operations.",
+      "services": [
+        "technology",
+        "bds",
+        "postharvest"
+      ]
+    },
+    {
+      "id": "shalem-and-prosoya-ltd-financial-modelling-and-business-planning",
+      "track": "partner",
+      "category": "Business feasibility studies and business development services",
+      "title": "Shalem and Prosoya Ltd: financial modelling and business planning",
+      "description": "Financial modelling, strengthening of operations and development of business plans for Shalem and Prosoya Ltd, both cereals factories.",
+      "services": [
+        "feasibility",
+        "bds"
+      ]
+    },
+    {
+      "id": "poultry-and-cowpea-value-chains-turkana",
+      "track": "partner",
+      "category": "Business feasibility studies and business development services",
+      "title": "Poultry and cowpea value chains, Turkana",
+      "description": "Development of viable business models for the poultry and cowpea value chains in Turkana County.",
+      "services": [
+        "bds"
+      ]
+    },
+    {
+      "id": "emuka-moringa-farmers-co-operative-society",
+      "track": "partner",
+      "category": "Business feasibility studies and business development services",
+      "title": "Emuka Moringa Farmers' Co-operative Society",
+      "description": "Feasibility study of moringa processing and restructuring of the business model, including plant layouts.",
+      "services": [
+        "feasibility",
+        "bds"
+      ]
+    },
+    {
+      "id": "three-agro-processing-business-cases-somaliland",
+      "track": "partner",
+      "category": "Business feasibility studies and business development services",
+      "title": "Three agro-processing business cases, Somaliland",
+      "description": "Design and development of agro-processing business cases for three medium-sized start-ups in Somaliland (a mini refinery, a cereal processing plant and an oil factory), including building design, technology selection and specifications, business evaluation, and guidance and support.",
+      "services": [
+        "feasibility",
+        "postharvest"
+      ]
+    },
+    {
+      "id": "usaid-western-kenya-sanitation-project-supply-chain-assessment-and-policy-briefs",
+      "track": "partner",
+      "category": "Policy development and review",
+      "title": "USAID Western Kenya Sanitation Project: supply chain assessment and policy briefs",
+      "description": "Supply chain assessment and development of policy briefs for sanitation and hygiene under the USAID Western Kenya Sanitation Project.",
+      "services": [
+        "policy",
+        "research"
+      ]
+    },
+    {
+      "id": "privatisation-of-state-owned-sugar-factories-socio-economic-modelling",
+      "track": "partner",
+      "category": "Policy development and review",
+      "title": "Privatisation of state-owned sugar factories: socio-economic modelling",
+      "description": "Study modelling the possible socio-economic impacts of privatisation of state-owned sugar factories in Western Kenya.",
+      "services": [
+        "policy",
+        "research"
+      ]
+    },
+    {
+      "id": "cost-and-incentives-study-hygiene-integration-in-value-chains",
+      "track": "partner",
+      "category": "Policy development and review",
+      "title": "Cost and incentives study: hygiene integration in value chains",
+      "description": "Case study of the costs of and incentives for hygiene integration at high-risk nodes in agricultural value chains: milk collection and processing, food processing, aggregation and transportation, and local markets.",
+      "services": [
+        "policy",
+        "research"
+      ]
+    },
+    {
+      "id": "behaviour-study-hygiene-integration-in-high-risk-nodes",
+      "track": "partner",
+      "category": "Policy development and review",
+      "title": "Behaviour study: hygiene integration in high-risk nodes",
+      "description": "Behaviour case study on hygiene integration at high-risk nodes in agricultural value chains: potato production, transportation, marketing and processing; milk collection, marketing and processing; and cereal and pulse processing.",
+      "services": [
+        "policy",
+        "research"
+      ]
+    },
+    {
+      "id": "cassava-processing-value-chain-upgrading-kenya-and-uganda",
+      "track": "research",
+      "category": "Research activities",
+      "title": "Cassava processing value chain upgrading, Kenya and Uganda",
+      "description": "Cassava processing value chain upgrading for food and bio-engineered feed through multi-stakeholder partnerships for improved rural livelihoods. Funded by Kenya's National Research Fund and the Uganda National Council for Science and Technology.",
+      "services": [
+        "research",
+        "postharvest"
+      ]
+    },
+    {
+      "id": "silver-cyprinid-value-chain-upgrading",
+      "track": "research",
+      "category": "Research activities",
+      "title": "Silver cyprinid value chain upgrading",
+      "description": "Upgrading of the silver cyprinid (Rastrineobola argentea) value chain through multi-stakeholder partnerships and novel climate-smart post-harvest processing technologies and practices. Funded by the Forum for Agricultural Research in Africa (FARA).",
+      "services": [
+        "research",
+        "postharvest"
+      ]
+    },
+    {
+      "id": "solar-tunnel-dryer-modification-and-modelling",
+      "track": "research",
+      "category": "Research activities",
+      "title": "Solar tunnel dryer modification and modelling",
+      "description": "Modification and modelling of a solar tunnel dryer for drying fish, fruits and vegetables. Funded by JICA through the Africa-ai-Japan project (phase 2).",
+      "services": [
+        "research",
+        "technology",
+        "postharvest"
+      ]
+    },
+    {
+      "id": "integrated-agri-energy-system-for-banana-farming",
+      "track": "research",
+      "category": "Research activities",
+      "title": "Integrated agri-energy system for banana farming",
+      "description": "An integrated agri-energy system for sustainable banana farming and improved livelihoods of smallholder farmers in Kenya. KALRO / World Bank.",
+      "services": [
+        "research",
+        "technology"
+      ]
+    },
+    {
+      "id": "low-cost-scalable-photovoltaic-technology",
+      "track": "research",
+      "category": "Research activities",
+      "title": "Low-cost scalable photovoltaic technology",
+      "description": "Development and demonstration of a low-cost, scalable PV technology for international development. EPSRC, UKAID and Newcastle University.",
+      "services": [
+        "research",
+        "technology"
+      ]
+    },
+    {
+      "id": "renewable-energy-for-food-re4food",
+      "track": "research",
+      "category": "Research activities",
+      "title": "Renewable Energy for Food (RE4Food)",
+      "description": "Renewable Energy for Food (RE4Food) research project of JKUAT and Newcastle University.",
+      "services": [
+        "research",
+        "technology"
+      ]
+    },
+    {
+      "id": "greenhouse-solar-dryer-with-convection-option",
+      "track": "research",
+      "category": "Research activities",
+      "title": "Greenhouse solar dryer with convection option",
+      "description": "Development of a greenhouse solar dryer system with a convection option. Funded by NACOSTI.",
+      "services": [
+        "research",
+        "technology",
+        "postharvest"
+      ]
+    }
+  ]
+}
