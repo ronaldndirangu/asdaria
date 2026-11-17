@@ -178,7 +178,7 @@ def footer_cta():
 
 def asset_url(path):
     # The content hash changes the URL whenever the file changes, so browsers never pair new pages with cached old assets.
-    return f"{path}?v={hashlib.sha256((SITE / path).read_bytes()).hexdigest()[:10]}"
+    return f"{path}?v={hashlib.sha256((SITE / path).read_text(encoding='utf-8').encode('utf-8')).hexdigest()[:10]}"
 
 
 def page_url(slug):
