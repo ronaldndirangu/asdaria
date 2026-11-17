@@ -56,5 +56,6 @@ jobs:
           workload_identity_provider: ${{ vars.GCP_WORKLOAD_IDENTITY_PROVIDER }}
           service_account: ${{ vars.GCP_DEPLOY_SERVICE_ACCOUNT }}
           project_id: asdaria
+          token_format: access_token
       - name: Deploy site
-        run: npx --yes --package=firebase-tools@15.36.0 firebase deploy --only hosting --project asdaria --non-interactive
+        run: npx --yes --package=firebase-tools@15.36.0 firebase deploy --only hosting --project asdaria --non-interactive --debug
